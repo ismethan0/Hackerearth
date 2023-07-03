@@ -1,2 +1,2 @@
 # Hackerearth
-Hackerearth soru çözümleri
+Hackerearth Solutions
